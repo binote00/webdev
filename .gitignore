@@ -1,3 +1,5 @@
 # Commentaire
 readme.md
 .idea/*
+*.txt
+!infos.txt
